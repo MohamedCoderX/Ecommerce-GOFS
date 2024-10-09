@@ -66,7 +66,27 @@ text-align: center;
     .contact-pers h4{
         text-align: center;
     }
-    
+    .filter{
+        width: 100%!important;
+        text-align: center;
+    }
+    .filter h2{
+        margin: 0;
+    }
+    .fil{
+        font-size: 15px!important;
+        gap: 4px!important;
+    }
+    .produ::before{
+        
+        width: 100%!important;
+    height: 1px!important;
+    left: 0;
+    top: -24px!important;
+    }
+    .filter h2{
+        font-size: 20px;
+    }
     .contact-pers{
         width: 100%;
     }
