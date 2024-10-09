@@ -1,0 +1,137 @@
+@media screen and (max-width:690px) {
+    .navv{
+        display: none!important;
+    }
+    .bars {
+        display: inline!important;
+    }
+    
+}
+@media (max-width:477px){
+    .navvv{
+        padding: 10px 31px;
+    }
+    .product-details{
+        padding: 0px 20px;
+    }
+    .product-left{
+        width: 100%;
+    }
+    .product-right{
+        width: 100%;
+    }
+    .pro-img{
+        width: 23%;
+    }
+    #hero-section{
+        padding: 10px 30px;
+        text-align: center;
+    }
+    .shop-header h1{
+        font-size: 31px;
+        line-height: 23px;
+    }
+    .shop-content{
+        padding: 20px;
+    }
+    .sect1{
+        width: 100%;
+    }
+    #about-section{
+padding: 10px 1px;
+text-align: center;
+    }
+    .about-section1{
+        padding: 10px 10px;
+    }
+    .about-section1 h2{
+        font-size: 36px;
+    }
+    .about-section1 p{
+        font-size: 16px
+        ;
+    }
+    .about-vd{
+        width: 98%;
+    }
+    .get{
+        width: 100%;
+    }
+    .contact-form{
+        width: 98%;
+    }
+    .per1 p{
+        font-size: 13px;
+    }
+    .contact-pers h4{
+        text-align: center;
+    }
+    
+    .contact-pers{
+        width: 100%;
+    }
+    .map{
+        width: 100%;
+    }
+.map iframe{
+    width: 100%;
+}
+    .about-vdo h2{
+        font-size: 31px;
+        line-height: 20px;
+    }
+    #about-section h1{
+        font-size: 36px;
+        line-height: 14px;
+    }
+    #about-section h3{
+        font-size: 10px;
+    }
+    .sect2{
+        width: 100%;
+    }
+    .shop-header h3{
+        color: white;
+        font-size: 9px;
+    }
+    #hero-section .hero-content h1{
+font-size: 29px;
+line-height: 30px;
+    }
+    #hero-section button{
+        padding: 14px 59px;
+    }
+    #hero-section .hero-content h3{
+        font-size: 18px;
+        margin: 0;
+    }
+    .action2{
+        gap: 0!important;
+    }
+    .box{
+        min-width: 300px;
+    }
+        .box4{
+            padding: 60px 10px!important;
+        }
+       .banner h2{
+        font-size: 33px!important;
+       }
+   .news2 button{
+    padding: 11px 7px !important;
+   }
+    .product-header1 h2{
+        line-height: 13px;
+        font-size: 31px!important;
+    }
+    .shop-content{
+        padding: 57px 0px;
+    }
+    .news1 h2{
+        font-size: 21px!important;
+        line-height: 23px;
+    }
+    .news1 p{
+        padding-bottom: 20px;
+    }
+}
